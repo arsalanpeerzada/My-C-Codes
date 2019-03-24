@@ -1,0 +1,5 @@
+E:\arsalan\MyC#Practice\c# latest practice\naveed bhai assign\naveed bhai assign\bin\Debug\naveed bhai assign.exe
+E:\arsalan\MyC#Practice\c# latest practice\naveed bhai assign\naveed bhai assign\bin\Debug\naveed bhai assign.pdb
+E:\arsalan\MyC#Practice\c# latest practice\naveed bhai assign\naveed bhai assign\obj\x86\Debug\naveed bhai assign.exe
+E:\arsalan\MyC#Practice\c# latest practice\naveed bhai assign\naveed bhai assign\obj\x86\Debug\naveed bhai assign.pdb
+E:\arsalan\MyC#Practice\c# latest practice\naveed bhai assign\naveed bhai assign\obj\x86\Debug\naveed bhai assign.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+E:\arsalan\MyC#Practice\c# latest practice\database\database\bin\Debug\database.exe
+E:\arsalan\MyC#Practice\c# latest practice\database\database\bin\Debug\database.pdb
+E:\arsalan\MyC#Practice\c# latest practice\database\database\obj\x86\Debug\database.exe
+E:\arsalan\MyC#Practice\c# latest practice\database\database\obj\x86\Debug\database.pdb

@@ -1,0 +1,4 @@
+E:\arsalan\MyC#Practice\c# latest practice\name triangle\name triangle\bin\Debug\name triangle.exe
+E:\arsalan\MyC#Practice\c# latest practice\name triangle\name triangle\bin\Debug\name triangle.pdb
+E:\arsalan\MyC#Practice\c# latest practice\name triangle\name triangle\obj\x86\Debug\name triangle.exe
+E:\arsalan\MyC#Practice\c# latest practice\name triangle\name triangle\obj\x86\Debug\name triangle.pdb
