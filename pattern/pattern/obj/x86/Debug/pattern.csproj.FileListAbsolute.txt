@@ -1,0 +1,4 @@
+E:\arsalan\MyC#Practice\c# latest practice\pattern\pattern\bin\Debug\pattern.exe
+E:\arsalan\MyC#Practice\c# latest practice\pattern\pattern\bin\Debug\pattern.pdb
+E:\arsalan\MyC#Practice\c# latest practice\pattern\pattern\obj\x86\Debug\pattern.exe
+E:\arsalan\MyC#Practice\c# latest practice\pattern\pattern\obj\x86\Debug\pattern.pdb
