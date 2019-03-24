@@ -1,0 +1,4 @@
+E:\arsalan\MyC#Practice\c# latest practice\arrays\arrays\bin\Debug\arrays.exe
+E:\arsalan\MyC#Practice\c# latest practice\arrays\arrays\bin\Debug\arrays.pdb
+E:\arsalan\MyC#Practice\c# latest practice\arrays\arrays\obj\x86\Debug\arrays.exe
+E:\arsalan\MyC#Practice\c# latest practice\arrays\arrays\obj\x86\Debug\arrays.pdb

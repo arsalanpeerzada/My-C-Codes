@@ -1,0 +1,4 @@
+E:\arsalan\MyC#Practice\c# latest practice\cities databases\cities databases\bin\Debug\cities databases.exe
+E:\arsalan\MyC#Practice\c# latest practice\cities databases\cities databases\bin\Debug\cities databases.pdb
+E:\arsalan\MyC#Practice\c# latest practice\cities databases\cities databases\obj\x86\Debug\cities databases.exe
+E:\arsalan\MyC#Practice\c# latest practice\cities databases\cities databases\obj\x86\Debug\cities databases.pdb

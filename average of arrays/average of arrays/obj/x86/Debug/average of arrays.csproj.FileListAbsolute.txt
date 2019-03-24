@@ -1,0 +1,4 @@
+E:\arsalan\MyC#Practice\c# latest practice\average of arrays\average of arrays\bin\Debug\average of arrays.exe
+E:\arsalan\MyC#Practice\c# latest practice\average of arrays\average of arrays\bin\Debug\average of arrays.pdb
+E:\arsalan\MyC#Practice\c# latest practice\average of arrays\average of arrays\obj\x86\Debug\average of arrays.exe
+E:\arsalan\MyC#Practice\c# latest practice\average of arrays\average of arrays\obj\x86\Debug\average of arrays.pdb

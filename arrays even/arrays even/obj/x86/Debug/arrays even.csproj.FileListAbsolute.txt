@@ -1,0 +1,4 @@
+E:\arsalan\MyC#Practice\c# latest practice\arrays even\arrays even\bin\Debug\arrays even.exe
+E:\arsalan\MyC#Practice\c# latest practice\arrays even\arrays even\bin\Debug\arrays even.pdb
+E:\arsalan\MyC#Practice\c# latest practice\arrays even\arrays even\obj\x86\Debug\arrays even.exe
+E:\arsalan\MyC#Practice\c# latest practice\arrays even\arrays even\obj\x86\Debug\arrays even.pdb
