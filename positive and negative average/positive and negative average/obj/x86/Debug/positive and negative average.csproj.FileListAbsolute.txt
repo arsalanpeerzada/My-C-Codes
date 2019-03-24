@@ -1,0 +1,5 @@
+E:\arsalan\MyC#Practice\c# latest practice\positive and negative average\positive and negative average\bin\Debug\positive and negative average.exe
+E:\arsalan\MyC#Practice\c# latest practice\positive and negative average\positive and negative average\bin\Debug\positive and negative average.pdb
+E:\arsalan\MyC#Practice\c# latest practice\positive and negative average\positive and negative average\obj\x86\Debug\positive and negative average.csprojResolveAssemblyReference.cache
+E:\arsalan\MyC#Practice\c# latest practice\positive and negative average\positive and negative average\obj\x86\Debug\positive and negative average.exe
+E:\arsalan\MyC#Practice\c# latest practice\positive and negative average\positive and negative average\obj\x86\Debug\positive and negative average.pdb

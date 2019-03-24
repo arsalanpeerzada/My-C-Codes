@@ -1,0 +1,12 @@
+E:\arsalan\MyC#Practice\c# latest practice\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\arsalan\MyC#Practice\c# latest practice\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\arsalan\MyC#Practice\c# latest practice\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\arsalan\MyC#Practice\c# latest practice\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\arsalan\MyC#Practice\c# latest practice\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\arsalan\MyC#Practice\c# latest practice\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\arsalan\MyC#Practice\c# latest practice\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\arsalan\MyC#Practice\c# latest practice\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\arsalan\C#\c# latest practice\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\arsalan\C#\c# latest practice\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\arsalan\C#\c# latest practice\phonebook\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\arsalan\C#\c# latest practice\phonebook\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

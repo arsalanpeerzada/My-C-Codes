@@ -1,0 +1,5 @@
+E:\arsalan\MyC#Practice\c# latest practice\Person date of birth\Person date of birth\bin\Debug\Person date of birth.exe
+E:\arsalan\MyC#Practice\c# latest practice\Person date of birth\Person date of birth\bin\Debug\Person date of birth.pdb
+E:\arsalan\MyC#Practice\c# latest practice\Person date of birth\Person date of birth\obj\x86\Debug\Person date of birth.exe
+E:\arsalan\MyC#Practice\c# latest practice\Person date of birth\Person date of birth\obj\x86\Debug\Person date of birth.pdb
+E:\arsalan\MyC#Practice\c# latest practice\Person date of birth\Person date of birth\obj\x86\Debug\Person date of birth.csprojResolveAssemblyReference.cache

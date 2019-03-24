@@ -1,0 +1,4 @@
+E:\arsalan\MyC#Practice\c# latest practice\stars by line\stars by line\bin\Debug\stars by line.exe
+E:\arsalan\MyC#Practice\c# latest practice\stars by line\stars by line\bin\Debug\stars by line.pdb
+E:\arsalan\MyC#Practice\c# latest practice\stars by line\stars by line\obj\x86\Debug\stars by line.exe
+E:\arsalan\MyC#Practice\c# latest practice\stars by line\stars by line\obj\x86\Debug\stars by line.pdb

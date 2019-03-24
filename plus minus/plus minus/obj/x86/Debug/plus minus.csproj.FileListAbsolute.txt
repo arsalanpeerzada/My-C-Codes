@@ -1,0 +1,4 @@
+E:\arsalan\MyC#Practice\c# latest practice\plus minus\plus minus\bin\Debug\plus minus.exe
+E:\arsalan\MyC#Practice\c# latest practice\plus minus\plus minus\bin\Debug\plus minus.pdb
+E:\arsalan\MyC#Practice\c# latest practice\plus minus\plus minus\obj\x86\Debug\plus minus.exe
+E:\arsalan\MyC#Practice\c# latest practice\plus minus\plus minus\obj\x86\Debug\plus minus.pdb
